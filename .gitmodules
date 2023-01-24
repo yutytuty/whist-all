@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/yutytuty/WhistServer.git
+[submodule "client"]
+	path = client
+	url = https://github.com/yutytuty/Whist2.git
